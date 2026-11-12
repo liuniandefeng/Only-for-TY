@@ -42,6 +42,9 @@ window.SITE_CONFIG = {
     { file: "photos/01.jpg", caption: "第一次见你，\n时间好像慢了一拍。" },
     { file: "photos/02.jpg", caption: "那一面之后，\n我的日常里开始有你。" },
     { file: "photos/03.jpg", caption: "还没一起走过的路，\n我想和你慢慢走。" },
+    { file: "photos/04.jpg", caption: "一起去远方，\n新的风景里，最好看的还是你。" },
+    { file: "photos/05.jpg", caption: "普通的日常，\n也是和你在一起的限定款。" },
+    { file: "photos/06.jpg", caption: "以后的每一个季节，\n都想和你一起过。" },
   ],
 
   /* ---------- ⑥ 穿越星际后，抵达星球时的那句话 ---------- */
